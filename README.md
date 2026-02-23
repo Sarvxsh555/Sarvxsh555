@@ -14,11 +14,12 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                    
 <br>
+  
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
   <a href="https://LakshaySK106.dev/">
   <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width=51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshaySK106&theme=blueberry&hide_border=true" />
+    <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshaySK106&theme=blueberry&hide_border=true" />
   </a>
 </p>
 
@@ -93,9 +94,7 @@
   
 <h3>Let the Snake eat my contributions</h3>
 <p align='center'>
-  <img src="https://github.com/LakshaySK106/LakshaySK106/raw/output/github-contribution-grid-snake.svg">
-<!--   ![image](https://github.com/LakshaySK106/LakshaySK106/blob/output/github-contribution-grid-snake.svg) -->
-
+  <img src="https://raw.githubusercontent.com/LakshaySK106/LakshaySK106/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 <p  align="center">
