@@ -18,7 +18,7 @@
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
   <a href="https://LakshaySK106.dev/">
-  <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="48.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshaySK106&theme=blueberry&hide_border=true" />
   </a>
 </p>
