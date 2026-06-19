@@ -72,13 +72,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3>Statistical Data</h3>
-
 <p>
-  <img align="left"
-       width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true"
-       alt="LakshaySK106" />
-
   <img align="right"
       width="48%"
       src="https://leetcard.jacoblin.cool/Sarvesh_Arun?theme=dark&font=Nunito&ext=contest"
