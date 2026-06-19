@@ -3,13 +3,13 @@
 
 <h3>Hello Fellow < Coders/ >! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
-![](https://komarev.com/ghpvc/?username=LakshaySK106&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sarvxsh555&style=for-the-badge)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=40&height=130&width=800&lines=Heyyyy!+I'm+Lakshay+%3C3;Computer+Software+Engineering+Major;Delhi+Technological+University;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=40&height=130&width=800&lines=Heyyyy!+I'm+Sarvesh-Arun+%3C3;Computer+Software+Engineering+Major;Delhi+Technological+University;Welcome+to+my+profile+!">
 </p>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                    
@@ -17,14 +17,14 @@
   
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
-  <a href="https://LakshaySK106.dev/">
-  <img width="48.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshaySK106&theme=blueberry&hide_border=true" />
+  <a href="https://Sarvxsh555.dev/">
+  <img width="48.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sarvxsh555&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvxsh555&theme=blueberry&hide_border=true" />
   </a>
 </p>
 
 
-[![Lakshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshaySK106&theme=tokyo-night)](https://github.com/LakshaySK106/github-readme-activity-graph)
+[![Sarvesh-Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvxsh555&theme=tokyo-night)](https://github.com/Sarvxsh555/github-readme-activity-graph)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -62,7 +62,7 @@
       height="100" />
    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="80" height="80" />
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100" />
-   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width='90' />
+   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Sarvxsh555/Sarvxsh555/blob/main/the_json.png?raw=true" alt="JSON" width='90' />
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" />
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" />
    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="100" width="100" />
@@ -73,8 +73,8 @@
 
 <!-- <h3>Statistical Data</h3>
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true"
-    alt="LakshaySK106" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarvxsh555&show_icons=true&theme=blueberry&hide_border=true"
+    alt="Sarvxsh555" />
     <p align='right'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 </p>
@@ -94,7 +94,7 @@
   
 <h3>Let the Snake eat my contributions</h3>
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/LakshaySK106/LakshaySK106/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Sarvxsh555/Sarvxsh555/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 <p  align="center">
@@ -105,21 +105,21 @@
   <br>
   <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakshaysk106" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/sarvxsh555" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Lakshay" height="30" width="40" /></a>
- <a href="https://twitter.com/lakshay123401" target="_blank"><img align="center"
+      alt="Sarvesh-Arun" height="30" width="40" /></a>
+ <a href="https://twitter.com/sarvxsh555" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Lakshay" height="30" width="40" /></a>
-  <a href="https://instagram.com/laksh.ay_" target="_blank"><img align="center"
+      alt="Sarvesh-Arun" height="30" width="40" /></a>
+  <a href="https://instagram.com/sarvxsh555" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="laksh.ay_" height="30" width="40" /></a>
-  <a href="https://discord.com/users/Lakshay%E2%97%A5%E2%96%B6_%E2%97%80%E2%97%A4#4372" target="_blank"><img align="center"
+      alt="sarvxsh555" height="30" width="40" /></a>
+  <a href="https://discord.com/users/sarvxsh555" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Lakshay" height="30" width="40" /></a>
+      alt="Sarvesh-Arun" height="30" width="40" /></a>
   <a href="#"><img align="center"
       src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
-      alt="Lakshay" height="30" width="40" /></a>
+      alt="Sarvesh-Arun" height="30" width="40" /></a>
   
 </p>
      <p  align="center">
