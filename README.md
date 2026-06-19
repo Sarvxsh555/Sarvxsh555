@@ -114,21 +114,37 @@
   <br>
   <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvxsh555" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/sarvesh-arun-8b1904337/" target="_blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Sarvesh-Arun" height="30" width="40" /></a>
-  <a href="https://twitter.com/sarvxsh555" target="_blank"><img align="center"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="https://x.com/sarvxsh_555" target="_blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Sarvesh-Arun" height="30" width="40" /></a>
-  <a href="https://instagram.com/sarvxsh555" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="sarvxsh555" height="30" width="40" /></a>
-  <a href="https://discord.com/users/sarvxsh555" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Sarvesh-Arun" height="30" width="40" /></a>
-  <a href="#"><img align="center"
-      src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
-      alt="Sarvesh-Arun" height="30" width="40" /></a>
+      alt="Twitter/X"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/Sarvesh_Arun/" target="_blank">
+    <img align="center"
+      src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png"
+      alt="LeetCode"
+      height="35"
+      width="35" />
+  </a>
+
+  <a href="mailto:sarveshvaranarun@gmail.com">
+    <img align="center"
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      alt="Gmail"
+      height="35"
+      width="35" />
+  </a>
 </p>
 
 <p  align="center">
