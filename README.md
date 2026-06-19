@@ -78,9 +78,6 @@
       src="https://leetcard.jacoblin.cool/Sarvesh_Arun?theme=dark&font=Nunito&ext=contest"
       alt="Sarvesh_Arun LeetCode Stats" />
 </p>
-
-<br clear="both"/>
-
 <p align='center'>
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
        width="250"
