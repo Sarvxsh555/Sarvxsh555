@@ -32,9 +32,6 @@
 
 <h3>💻 Technology Stack</h3>
 <p >
-<a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif"
-      alt="c" width="100" height="100" /> </a> 
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java" width="100" height="100" /> </a>
@@ -63,6 +60,9 @@
    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="80" height="80" />
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100" />
    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Sarvxsh555/Sarvxsh555/blob/main/the_json.png?raw=true" alt="JSON" width='90' />
+   <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif"
+      alt="c" width="100" height="100" /> </a> 
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" />
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" />
    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="100" width="100" />
@@ -71,7 +71,7 @@
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<!-- <h3>Statistical Data</h3>
+<h3>Statistical Data</h3>
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarvxsh555&show_icons=true&theme=blueberry&hide_border=true"
     alt="Sarvxsh555" />
@@ -81,7 +81,7 @@
 
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br> -->
+<br>
 
 <h3>Currently listening to 🎶</h3>
 <div align="center">
